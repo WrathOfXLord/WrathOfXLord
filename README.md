@@ -1,13 +1,13 @@
 <img src="assets/w4.png" width="100%" alt="Banner"/>
 
 <p align="center">
-  <a href="mailto:alifiratozel@gmail.com"><img src="assets/gmail.svg" width="36px" alt="Gmail"/></a>
+  <a href="mailto:alifirato@gmail.com"><img src="assets/gmail.svg" width="36px" alt="Gmail"/></a>
   &#8195;&#8195;&#8195;&#8195;&#8195;
-  <a href="https://www.linkedin.com/in/alifiratozel/"><img src="assets/linkedin.svg" width="36px" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ali-firat-ozel/"><img src="assets/linkedin.svg" width="36px" alt="LinkedIn"/></a>
   &#8195;&#8195;&#8195;&#8195;&#8195;
   <a href="https://www.instagram.com/alifiratozel/"><img src="assets/instagram.svg" width="36px" alt="Instagram"/></a>
   &#8195;&#8195;&#8195;&#8195;&#8195;
-  <a href="https://x.com/alifiratozel"><img src="assets/x.svg" width="36px" alt="X"/></a>
+  <a href="https://x.com/firathaelios"><img src="assets/x.svg" width="36px" alt="X"/></a>
 </p>
 
 
