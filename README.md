@@ -14,7 +14,7 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
-# 👋 Hey, I’m Ali Fırat (WrathOfXLord)
+# 👋 Hey, I’m WrathOfXLord
 
 <table>
 <tr>
