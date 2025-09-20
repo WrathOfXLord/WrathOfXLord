@@ -1,13 +1,10 @@
 <img src="assets/fighter2.gif" width="100%" alt="Banner"/>
 
 <p align="center">
-  <a href="mailto:alifirato@gmail.com"><img src="assets/gmail.svg" width="36px" alt="Gmail"/></a>
-  &#8195;&#8195;&#8195;&#8195;&#8195;
-  <a href="https://www.linkedin.com/in/ali-firat-ozel/"><img src="assets/linkedin.svg" width="36px" alt="LinkedIn"/></a>
-  &#8195;&#8195;&#8195;&#8195;&#8195;
-  <a href="https://www.instagram.com/alifiratozel/"><img src="assets/instagram.svg" width="36px" alt="Instagram"/></a>
-  &#8195;&#8195;&#8195;&#8195;&#8195;
-  <a href="https://x.com/firathaelios"><img src="assets/x.svg" width="36px" alt="X"/></a>
+  <a href="mailto:alifirato@gmail.com"><img src="assets/gmail.svg" width="36px" alt="Gmail" style="margin: 0 15px;"/></a>
+  <a href="https://www.linkedin.com/in/ali-firat-ozel/"><img src="assets/linkedin.svg" width="36px" alt="LinkedIn" style="margin: 0 15px;"/></a>
+  <a href="https://www.instagram.com/alifiratozel/"><img src="assets/instagram.svg" width="36px" alt="Instagram" style="margin: 0 15px;"/></a>
+  <a href="https://x.com/firathaelios"><img src="assets/x.svg" width="36px" alt="X" style="margin: 0 15px;"/></a>
 </p>
 
 <a href="https://github.com/WrathOFXLord">
