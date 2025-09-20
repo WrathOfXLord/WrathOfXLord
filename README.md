@@ -1,4 +1,4 @@
-<img src="assets/fighter.gif" width="100%" alt="Banner"/>
+<img src="assets/fighter2.gif" width="100%" alt="Banner"/>
 
 <p align="center">
   <a href="mailto:alifirato@gmail.com"><img src="assets/gmail.svg" width="36px" alt="Gmail"/></a>
