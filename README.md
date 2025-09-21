@@ -49,7 +49,13 @@ My QA background taught me precision, but what I love most is **designing and co
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</a>
+<a href="https://en.cppreference.com/w/">
+  <img src="https://img.shields.io/badge/cppreference-00599C?style=for-the-badge&logo=bookstack&logoColor=white">
+</a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
