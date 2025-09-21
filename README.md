@@ -1,4 +1,4 @@
-<a href="#">
+<a href="#decor">
   <img src="assets/fighter2.gif" width="100%" alt="Banner"/>
 </a>
 
@@ -9,7 +9,7 @@
   <a href="https://x.com/firathaelios"><img src="assets/x.svg" width="36px" alt="X" style="margin: 0 15px;"/></a>
 </p>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
@@ -27,20 +27,20 @@ My QA background taught me precision, but what I love most is **designing and co
 - 🎮 Side projects in **C++ & Python**  
 - 🌱 Always exploring new stacks & frameworks  
 
-<a href="#">
+<a href="#decor">
   <img src="https://readme-typing-svg.demolab.com?size=20&duration=2800&pause=900&multiline=true&width=520&height=55&lines=Backend+%26+APIs;Clean+design%2C+pragmatic+code;Always+learning+new+stacks" alt="text"/>
 </a>
 
 </td>
 <td width="300" align="center" valign="middle">
-  <a href="#">
+  <a href="#decor">
     <img src="assets/piano-bruce-almighty.gif" width="280px" alt="character"/>
   </a>
 </td>
 </tr>
 </table>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
@@ -90,7 +90,7 @@ My QA background taught me precision, but what I love most is **designing and co
   <img src="https://img.shields.io/badge/Karate-1f8acb?style=for-the-badge&logoColor=white">
 </a>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
@@ -99,7 +99,7 @@ My QA background taught me precision, but what I love most is **designing and co
 - [**LocalPythonWork**](https://github.com/WrathOFXLord/LocalPythonWork) — Python scripts & notebooks: log parsers, matplotlib demos, quick prototyping.
 - [**BusTicket**](https://github.com/WrathOFXLord/BusTicket) — Java project simulating a ticketing system; OOP design + service layer practice.
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
@@ -108,15 +108,15 @@ My QA background taught me precision, but what I love most is **designing and co
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <a href="#">
+    <a href="#decor">
       <img src="https://github-readme-stats.vercel.app/api?username=WrathOFXLord&theme=radical&title_color=ff3068&icon_color=ff3068&text_color=ffffff&bg_color=141321" />
     </a>
-    <a href="#">
+    <a href="#decor">
       <img src="http://github-readme-streak-stats.herokuapp.com/?user=WrathOFXLord&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="WrathOFXLord streak" />
     </a>
 </td>
 <td width="50%" align="center">
-    <a href="#">
+    <a href="#decor">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrathOFXLord&theme=radical&hide_border=false&title_color=ff3068&text_color=ffffff&icon_color=ff3068&bg_color=141321&langs_count=10"/>
     </a>
 </td>
@@ -124,36 +124,36 @@ My QA background taught me precision, but what I love most is **designing and co
 </table>
 </p>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
 ## 🏆 Profile Trophies
 <div align="center">
-  <a href="#">
+  <a href="#decor">
     <img src="https://github-profile-trophy.vercel.app/?username=WrathOFXLord&theme=dark_lover&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
   </a>
 </div>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
 ## 🐍 Contribution Snake
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </a>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
 
 <div align="center">
-  <a href="#">
+  <a href="#decor">
     <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=WrathOFXLord%2FViews-Counter">
   </a>
 </div>
 
-<a href="#">
+<a href="#decor">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </a>
