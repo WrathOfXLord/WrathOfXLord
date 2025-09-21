@@ -41,22 +41,50 @@ My QA background taught me precision, but what I love most is **designing and co
 </a>
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+<a href="https://visualstudio.microsoft.com/">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+</a>
 
 ### 🔍 Also worked with QA Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logoColor=white)
-![Gauge](https://img.shields.io/badge/Gauge-663399?style=for-the-badge&logoColor=white)
-![Karate](https://img.shields.io/badge/Karate-1f8acb?style=for-the-badge&logoColor=white)
+<a href="https://www.selenium.dev/">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
+<a href="https://appium.io/">
+  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white">
+</a>
+<a href="https://rest-assured.io/">
+  <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logoColor=white">
+</a>
+<a href="https://gauge.org/">
+  <img src="https://img.shields.io/badge/Gauge-663399?style=for-the-badge&logoColor=white">
+</a>
+<a href="https://github.com/karatelabs/karate">
+  <img src="https://img.shields.io/badge/Karate-1f8acb?style=for-the-badge&logoColor=white">
+</a>
 
 <a href="https://github.com/WrathOFXLord">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
