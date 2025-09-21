@@ -27,14 +27,13 @@ My QA background taught me precision, but what I love most is **designing and co
 - 🎮 Side projects in **C++ & Python**  
 - 🌱 Always exploring new stacks & frameworks  
 
-<a href="#decor">
-  <img src="https://readme-typing-svg.demolab.com?size=20&duration=2800&pause=900&multiline=true&width=520&height=55&lines=Backend+%26+APIs;Clean+design%2C+pragmatic+code;Always+learning+new+stacks" alt="text"/>
-</a>
-
 </td>
 <td width="300" align="center" valign="middle">
   <a href="#decor">
     <img src="assets/piano-bruce-almighty.gif" width="280px" alt="character"/>
+  </a>
+  <a href="#decor">
+    <img src="https://readme-typing-svg.demolab.com?size=20&duration=2800&pause=900&multiline=true&width=520&height=55&lines=Backend+%26+APIs;Clean+design%2C+pragmatic+code;Always+learning+new+stacks" alt="text"/>
   </a>
 </td>
 </tr>
